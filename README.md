@@ -3,7 +3,7 @@ Hi 👋, I'm Azhar Ali
 </h1>
 
 <h3 align="center">
-Full Stack Python Developer | Odoo Developer | React Developer | Automation Engineer | Machine Learning Learner
+Full Stack Developer | Automation Engineer | AI & Machine Learning
 </h3>
 
 <p align="center">
